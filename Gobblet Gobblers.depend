@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1610378349 source:d:\gobblet gobblers\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Meniuri.h"
+	"Joaca.h"
+
+1610642804 d:\gobblet gobblers\meniuri.h
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Joaca.h"
+
+1610731209 d:\gobblet gobblers\joaca.h
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
